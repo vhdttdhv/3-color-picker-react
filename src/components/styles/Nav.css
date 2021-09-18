@@ -1,0 +1,13 @@
+nav {
+  font-size: 2em;
+  padding: 1em;
+}
+
+nav > * {
+  margin: 0.5em;
+}
+
+#base-color {
+  width: 8%;
+}
+/*# sourceMappingURL=Nav.css.map */
